@@ -1,6 +1,6 @@
 # Welcome to CourserLi's Blog
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs
+I think **Jekyll** is a static site generator that's perfect for GitHub hosted blogs
 
 **So ,I choose Jekyll to set up blogs~**
 
