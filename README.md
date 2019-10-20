@@ -1,4 +1,4 @@
-# Welcome to CourserLi's Blog
+# Welcome to __CourserLi's__ Blog
 
 I think **Jekyll** is a static site generator that's perfect for GitHub hosted blogs
 
