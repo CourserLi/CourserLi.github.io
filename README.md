@@ -9,5 +9,5 @@ I think **Jekyll** is a static site generator that's perfect for GitHub hosted b
 
 # Conversation
 
-- maybe I will public platform no soon
+- maybe I will public forum platform no soon
 - and so please also pay more attention to me
