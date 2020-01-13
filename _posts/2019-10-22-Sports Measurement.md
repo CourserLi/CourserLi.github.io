@@ -19,7 +19,7 @@
 | 博客已经发布了四篇新的文章、三篇草稿（正在赶）|其实有点不开心，因为发布的第一篇关于VPN和SS(R)的被删了，这可是直接在百度上能搜到的文章啊！|   
 | 买了本单片机C语言的书，这周就开始步入电子   |Yeah！ヾ(´▽‘)ﾉ|   
 
-#### 我的CSDN博客[(CourserLi)](https://blog.csdn.net/CourserLi/article/details/102647876)，关注我的博客，分享新的知识 ♪（＾∀＾○）ﾉｼ
+#### 我的CSDN博客[(CourserLi)](https://blog.csdn.net/CourserLi)，关注我的博客，分享新的知识 ♪（＾∀＾○）ﾉｼ
  
 
 
